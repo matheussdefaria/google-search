@@ -1,6 +1,0 @@
-1 - https://www.google.com.br/
-2 - https://www.google.com.br/
-3 - https://www.google.com/?hl=pt_BR
-4 - https://support.google.com/chrome/community?hl=pt-BR
-5 - https://cloud.google.com/?hl=pt-br
-6 - https://workspace.google.com/intl/pt-BR/products/calendar/
